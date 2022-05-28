@@ -1,5 +1,7 @@
 # TikTalkServer
 
+# TikTalkReviews
+
 Authors:
 
 Shoval Weinstok 209540731
@@ -13,9 +15,9 @@ In order to run the project:
    
    https://github.com/itamar-st/TikTalkServer
    
-   (The server is port localhost:5051. it is hard coded in the client side)
+   (The server is localhost:5051. it is hard coded in the client side)
    
-2. Open and run TikTalkReviews:
+2. Open and run TikTalkReviews (http://localhost:5102/):
    
    https://github.com/ShovalWeinstock/TikTalkReviews
 
@@ -48,3 +50,4 @@ In order to run the project:
 	password: 12345678Aa
 	
 	gil has no conversations
+
