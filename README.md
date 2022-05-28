@@ -1,7 +1,5 @@
 # TikTalkServer
 
-# TikTalkReviews
-
 Authors:
 
 Shoval Weinstok 209540731
@@ -21,13 +19,13 @@ In order to run the project:
    
    https://github.com/ShovalWeinstock/TikTalkReviews
 
-3. Open TikTalkClient and run using the command "npm start":
+3. Open TikTalkClient and run it using the command "npm start":
    
    https://github.com/ShovalWeinstock/TikTalkClient
 
 4) Duplicate the client window, for communication between two users.
 
-* In order to ro rate the app, click on the button "Rate Us!", on the login page.
+* In order to rate the app, click on the button "Rate Us!", on the login page.
 
 5) Register to the application, or use one of the following users:
 
