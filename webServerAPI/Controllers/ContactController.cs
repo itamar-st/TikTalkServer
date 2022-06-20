@@ -43,7 +43,7 @@ namespace ChatServer.Controllers
         }
         // POST: api/contacts
         [HttpPost]
-        public IActionResult Create(string user, [Bind("Id, Name, Server")]Contact contact)
+        public IActionResult Create(string user, [Bind("Id, Name, Server")] Contact contact)
         { 
             if(_contactService.Create(user, contact) == false)
             {

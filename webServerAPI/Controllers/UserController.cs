@@ -9,11 +9,11 @@ namespace Controllers
     [Route("api/[controller]")]
     [ApiController]
     //controller for the User model
-    public class UserController : ControllerBase
+    public class userController : ControllerBase
     {
         private IUsersService _userService;
 
-        public UserController()
+        public userController()
         {
             this._userService = new UserService();
         }

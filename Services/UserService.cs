@@ -16,7 +16,7 @@ namespace Services
                                                                                 new Contact() {
                                                                                     Id = "itamar",
                                                                                     Name = "itamar",
-                                                                                    Last = "good, how are you?",
+                                                                                    Last = "1",
                                                                                     Lastdate = "28/05/2022 12:12:26",
                                                                                     Server = "localhost:5051",
                                                                                     ChatWithContact = new List<Message>()
@@ -32,7 +32,7 @@ namespace Services
                                                                                             Id = 1,
                                                                                             Created = "28/05/2022 12:12:26",
                                                                                             Sent = false,
-                                                                                            Content = "good, how are you?"
+                                                                                            Content = "aaaaaaa"
                                                                                         }
                                                                                     }
 
@@ -70,7 +70,7 @@ namespace Services
                                                                                  new Contact() {
                                                                                     Id = "emma",
                                                                                     Name = "emma",
-                                                                                    Last = "good, how are you?",
+                                                                                    Last = "bbbbbbbbbb",
                                                                                     Lastdate = "28/05/2022 12:12:26",
                                                                                     Server = "localhost:5051",
                                                                                     ChatWithContact = new List<Message>()
