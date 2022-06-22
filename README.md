@@ -6,7 +6,7 @@ Shoval Weinstok 209540731
 
 Itamar Shachen Tov 207497769
 
-
+***the changese made after the subbmition date are done by mistake while mirrorring the repo. they dont effect the program.***
 In order to run the project:
 
 1. Open TikTalkServer -> run inner project webServerAPI:
